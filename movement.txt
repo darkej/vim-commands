@@ -44,24 +44,3 @@ fX  to next 'X' after cursor, in the same line (X is any character)
 FX  to previous 'X' before cursor (f and F put the cursor on X)
 ;   repeat above, in same direction
 ,   repeat above, in reverse direction
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
