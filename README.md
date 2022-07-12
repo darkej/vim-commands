@@ -1,4 +1,4 @@
-## Vim useful commands
+## VIM COMMANDS MASTER :sunglasses: :muscle:
 
 Here I collected all the most usefull commands that I use in a daily work.
 I will not provide here some basics like `w`, `b`, `e`.
